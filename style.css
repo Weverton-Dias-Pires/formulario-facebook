@@ -1,0 +1,36 @@
+body {
+    background-color: #8094bf;
+}
+
+h1 {
+    background-color: #3f4395;
+    color: white;
+    width: 135px;
+    padding: 5px;
+}
+
+h3 {
+    color: white;
+    margin: 5px;
+}
+
+p {
+    margin: 5px;
+    color: white;
+}
+
+form {
+    background-color: #6380be;
+    border: 1px solid;
+    padding: 10px;
+}
+
+input {
+    border: 1px solid;
+    margin: 3px;
+    padding: 2px;
+}
+
+div {
+    background-image: url(https://th.bing.com/th/id/OIP.qOHduS-4uaSd3bdtPWosZAHaEo?w=271&h=180&c=7&r=0&o=5&pid=1.7);
+    }
