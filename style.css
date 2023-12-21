@@ -5,18 +5,21 @@ body {
 h1 {
     background-color: #3f4395;
     color: white;
-    width: 135px;
-    padding: 5px;
+    width: 145px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h3 {
     color: white;
     margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 p {
     margin: 5px;
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 form {
